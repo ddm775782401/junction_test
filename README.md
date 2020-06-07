@@ -1,1 +1,1 @@
-example
+使用junction和openmp的cmake测试例子
